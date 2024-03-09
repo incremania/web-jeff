@@ -1,0 +1,22 @@
+.phrase-one {
+    /* background-color: aqua; */
+    width: 400px;
+    height: 250px;
+    
+}
+.keystore-one {
+     /* background-color: rgb(171, 206, 17); */
+      width: 400px;
+    height: 250px;
+ 
+}
+.privatekey-one {
+     /* background-color: rgb(81, 17, 87); */
+    width: 400px;
+    height: 250px;
+   
+}
+
+ .hidden {
+        display: none;
+    }
